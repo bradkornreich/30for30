@@ -1,0 +1,3 @@
+I like git for the version control over cloud and also like th enterprise version where we do not share with public.
+
+Needs lot of practice with forking, cloning etc and once we are comfortable it is a really cool tool
