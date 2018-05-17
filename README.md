@@ -15,3 +15,4 @@ Make sure you add good comments when you commit your changes
   - Nick Mendel 5/15/2018
   - Ralley Hong 5/15/2018
   - Shan Thiru 5/15/2018 
+  - Emile Issaelkhoury 5/16/2018
