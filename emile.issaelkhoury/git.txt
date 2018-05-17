@@ -1,0 +1,3 @@
+Pro: Very easy and quick to create a repo. Github is a great tool. The command 'git stash' is awesome
+Con: Subversion have a better integration tools with IDEs. 
+I prefer subversion over Git
